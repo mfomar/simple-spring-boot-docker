@@ -1,6 +1,10 @@
 # simple-spring-boot-docker
 Simple Spring Boot Docker 
 
+Please note that this example was run locally on Mac OSX, using the Community Edition of Docker, which was downloaded from here:
+https://store.docker.com/editions/community/docker-ce-desktop-mac?tab=description
+
+
 
 You need to have Docker up and running.
 
